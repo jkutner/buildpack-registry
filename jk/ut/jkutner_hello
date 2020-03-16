@@ -1,1 +1,1 @@
-{"ns":"jkutner","name":"hello","version":"1.0","digest":"sha256:eebf2ab46c480037be03b3b39a35bde12907e430872df99da96fba643eddda7a","yanked":false,"addr":"docker.io/jkutner/hello-buildpack:1.0"}
+{"ns":"jkutner","name":"hello","version":"1.0","digest":"sha256:eebf2ab46c480037be03b3b39a35bde12907e430872df99da96fba643eddda7a","yanked":false,"addr":"docker.io/jkutner/hello-buildpack@sha256:3001d54c3df19e0a72693c9bf8622f558686eed101faf3a9bb6071289539aa66"}
